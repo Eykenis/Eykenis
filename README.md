@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eykenis&layout=compact) -->
 
 📖learning
-- basic computer graphics
-- OS
-- reading CS:APP
+- computer graphics
+- computer visions
+- mathematics
 
 ✨looking for
 - learn what I want to learn
 - play what I want to play
-- have my own game
+- build and release my own game
