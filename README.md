@@ -12,18 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻stats
-
-![](https://github-readme-stats.vercel.app/api?username=Eykenis)
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Eykenis) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eykenis&layout=compact) -->
 
 📖learning
 - computer graphics
-- computer visions
 - mathematics
+- game developing
 
-✨looking for
-- learn what I want to learn
-- play what I want to play
-- build and release my own game
+✨skills
+- C++, C#, C, Lua
+- drawing anime charas
