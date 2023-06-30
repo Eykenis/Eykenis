@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 📖learning
-- computer graphics
+- computational geometry
+- realtime rendering
 - mathematics
-- game developing
 
 ✨skills
 - C++, C#, C, Lua
