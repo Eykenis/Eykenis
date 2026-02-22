@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Here is Eykenis.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eykenis)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%2018%20mins-blue?style=flat)
 
