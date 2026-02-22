@@ -12,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Here is Eykenis.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eykenis)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Expertise
+3D Gaussian Splatting
+
+Digital Watermarking
