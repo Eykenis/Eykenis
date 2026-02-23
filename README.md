@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
