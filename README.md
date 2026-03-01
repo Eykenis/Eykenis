@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 📚 I'm currently pursuing a Master's degree in Computer Science in Tianjin University, China.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%2049%20mins-blue?style=flat)  Recorded by WakaTime Since March 2023. 
+![Code Time](http://img.shields.io/badge/Code%20Time-923%21hrs%2049%20mins-blue?style=flat)  Recorded by WakaTime Since March 2023. 
 
 
 <!--END_SECTION:waka-->
